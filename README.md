@@ -1,0 +1,1 @@
+Using a dataset of 32,137 concrete surface images, a CNN model was trained for crack detection. With the highest accuracy (99%) and the shortest runtime (5 mins), it outperformed Logistic Regression, AdaBoost, and MLP models
